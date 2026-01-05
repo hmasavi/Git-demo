@@ -1,1 +1,5 @@
-Welcome buddy!!!!!!!!! How are you doing today??? Hopefully well!!!
+<<<<<<< HEAD
+Welcome buddy!!!!!!!!! How are you doing today??? Hopefully well!!!                                                                                                                                                                                                                                                 
+=======
+Welcome buddy!!!!!!!!! How are you doing today??? Hopefully well!!!                                                                                                                                                                                                                                                  ********************************************************************
+>>>>>>> DEV
